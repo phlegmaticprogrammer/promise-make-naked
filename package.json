@@ -2,12 +2,11 @@
   "name": "@phlegmaticprogrammer/promise-make-naked",
   "repository": "github:phlegmaticprogrammer/promise-make-naked",
   "description": "A simple function that makes a promise that can be resolved or rejected from the outside.",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "promise",
     "naked"
